@@ -1,0 +1,16 @@
+.link{
+    text-decoration: none;
+    color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.main{
+        width: 100%;
+        display: flex;
+        gap: 2em;
+        align-items: center;
+        justify-content: center;
+        margin-top: 1em;
+    }
